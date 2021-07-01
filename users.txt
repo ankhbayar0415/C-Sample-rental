@@ -1,0 +1,6 @@
+Ankhaa Enkh;user2;paswwww;213123123;VIP;10.0;VIPmembership
+Name Llll;user3;pasdasd;123123123;NONE;0; 
+Troy Trey;user4;password;123123123;NONE;0; 
+Ankhbayar Enkhlkhagva;ankh1234;password;951220006;VIP;1182;VIPmembership, Bugatti Veyron, Bugatti Veyron
+John Doe;ankha1234;password;123412412;VIP;10;VIPmembership
+Ankhbayar Enkhlkhagva;ane171;password;99999999;NONE;450; , Lamborghini Aventador

@@ -1,0 +1,6 @@
+luxury;Bugatti Veyron;Classic and Fast;car;Luxury car;2019;130.0;160-200mph;diesel;4;125.0;0.10;Heat Tech.012
+performance;Lamborghini Aventador;One of the best racing cars;car;Performance car;2018;100.0;250-300mph;diesel;2;100.0;0.10;45mph;Bose UltraSound
+performance;Ferrari R87;Best seller of Ferrari;car;Performance car;2015;90.0;230-260mph;petrol;4;130.0;0.15;60mph;Beats Audio
+sports;BMW Lightening;Best motorcycle in the market;bike;Sports bike;2009;70.0;29.0;6;VR-6;320.0;0.10;A;Modified burning
+sports;Ducati MX76;Famous one right;bike;Sports bike;2016;80.0;27.5;4;VR-6 Pro;350.0;0.05;A;Added Nitro-07
+moped;Honda Model 1;Best for daily use;bike;Moped bike;2009;45.0;29.0;2;Honda v.12;120.0;0.20;30x50cm

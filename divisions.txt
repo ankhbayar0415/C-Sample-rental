@@ -1,0 +1,2 @@
+car;A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people.
+bike;An automotive vehicle with two in-line wheels.
